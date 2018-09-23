@@ -2,3 +2,33 @@
     margin-top: 5vh;
     border-bottom: solid;
 }
+
+.after-header {
+    margin-top: 8vh;
+}
+
+h4 {
+    letter-spacing: 1px;
+}
+.intro {
+    border-left: solid;
+    padding-left: 30px;
+}
+
+.projects {
+    margin-top: 8vh;
+
+}
+
+.campsite {
+    border-left: solid;
+    padding-left: 30px;
+
+    
+}
+
+.shoplist {
+    margin-top: 8vh;
+    border-left: solid;
+    padding-left: 30px;
+}
